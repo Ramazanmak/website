@@ -1,8 +1,0 @@
-# Ropositories
-node_modules
-dist
-
-# Files
-task.md
-src/assets/style/style.css
-src/assets/style/style.min.css
